@@ -1,0 +1,63 @@
+.Egesz{
+    width: 1150px;
+    height: 1400px;
+    margin-left: 300px;
+    margin-right: 630px;
+    background-color: rgb(125, 24, 51);
+
+}
+
+.K2{
+    height: 368px;
+    width: 300px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    float: left;
+    border: solid orange 7px;
+}
+
+.K1{
+    width: 250px;
+    height: 175px;
+    margin-top: 10px;
+    border: solid orange 7px;
+}
+
+.K5{
+    width: 250px;
+    height: 175px;
+    border: solid orange 7px;
+}
+
+.K3{
+    width: 250px;
+    height: 175px;
+    border: solid orange 7px;
+}
+
+.K6{
+    width: 250px;
+    height: 175px;
+    border: solid orange 7px;
+}
+
+.K4{
+    width: 250px;
+    height: 175px;
+    border: solid orange 7px;
+}
+
+.K7{
+    width: 250px;
+    height: 175px;
+    border: solid orange 7px;
+}
+.szöveg{
+margin-left: 10px;
+margin-right: 10px;
+}
+
+.Cím{
+    border-bottom: solid white 1px;
+}
